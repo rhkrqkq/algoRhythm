@@ -1,3 +1,3 @@
 ## algo"Rhythm"
 
-Python -> JAVA
+Python / JAVA
